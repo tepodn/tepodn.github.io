@@ -1,0 +1,47 @@
+.title {
+    font-size: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 1cm 5cm;
+    background-color: rgb(224, 236, 108);
+  }
+.task_list{
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 10px;
+    background-color: rgb(224, 236, 108);
+  }
+.weekly_task li{
+    padding-bottom: 20px;
+}
+.short_cut{
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 10px;
+    background-color: rgb(224, 236, 108);
+}
+.study_tool{
+    border: 2px solid black;
+    padding: 4px 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.recruit{
+    border: 2px solid black;
+    padding: 4px 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.hobby{
+    border: 2px solid black;
+    padding: 4px 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.weekly_object{
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding-left: 10px;
+  background-color: rgb(224, 236, 108);
+}
+.contents{
+font-size: xx-large;
+color: rgb(252, 53, 53);
+}
